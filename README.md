@@ -23,7 +23,7 @@ This project is built using:
 ## 🚀 Live Demo
 
 You can check out the live version of my portfolio here:  
-👉 [Live Demo]([https://your-live-portfolio-link.com](https://portfolio-website-eta-ten-39.vercel.app/))
+👉 [Live Demo](https://portfolio-website-eta-ten-39.vercel.app/)
 
 ## 🔧 Installation & Setup
 
