@@ -1,0 +1,26 @@
+[
+  {
+    "title": "College Web Project",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://shekhar7373.github.io/Web-Technology-Project/",
+    "source": "https://github.com/Shekhar7373/Web-Technology-Project"
+  },
+  {
+    "title": "Expense Tracker",
+    "imageSrc": "projects/project2.png",
+    "description": "This project is aimed of implementing theoretical concepts into real-world scenarios",
+    "skills": ["React", "CSS", "Javascript"],
+    "demo": "https://expense-tracker-phi-ivory.vercel.app/",
+    "source": "https://github.com/Shekhar7373/Expense_Tracker"
+  },
+  {
+    "title": "Movie Search",
+    "imageSrc": "projects/project3.png",
+    "description": "This project is aimed to Learning React library with api integration",
+    "skills": ["React", "CSS", "Javascript"],
+    "demo": "https://movie-search-app-murex-psi.vercel.app/",
+    "source": "https://github.com/Shekhar7373/Movie_Search_App"
+  }
+]
